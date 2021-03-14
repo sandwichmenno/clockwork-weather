@@ -1,1 +1,1 @@
-## Weather app for Clockwork
+## Weather app
